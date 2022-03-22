@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-<!--
-**Vinsmoke55/Vinsmoke55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Bsc CSIT
+ <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -13,3 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinsmoke55&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinsmoke55&layout=compact&bg_color=DEG,red)](https://github.com/vinsmoke55/github-readme-stats)
