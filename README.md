@@ -1,8 +1,8 @@
-### Hi there 👋
+<p align="center"><b>### Hi there 👋</b></p>
 
 
 
-- 🌱 I’m currently learning Bsc CSIT
+- 🌱 I’m currently learning Node js
  <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
