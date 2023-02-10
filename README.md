@@ -10,6 +10,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun 
+-->
 
 <p><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100%" height="200"/></p>
 <img align="left" width="47%" bg_color="red" src="https://github-readme-stats.vercel.app/api?username=vinsmoke55&show_icons=true&theme=vision-friendly-dark">
