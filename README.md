@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning nodejs<br>
+- 🌱 I’m currently learning Python<br>
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -11,8 +11,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun 
 -->
+<div>
+<p><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30%" height="200"/></p>
+<p><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30%" height="200"/> </a> </p>
+<p><img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30%" height="200"/> </a> </p>
+</div>
 
-<p><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100%" height="200"/></p>
 <img align="left" width="47%" bg_color="red" src="https://github-readme-stats.vercel.app/api?username=vinsmoke55&show_icons=true&theme=vision-friendly-dark">
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinsmoke55&layout=compact&theme=vision-friendly-dark")(https://github.com/vinsmoke55/github-readme-stats">
 
