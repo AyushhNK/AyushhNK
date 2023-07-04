@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Python<br>
+- 🌱 I’m currently learning Django<br>
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,7 +14,7 @@
 <div>
 <p><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30%" height="200"/></p>
 <p><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30%" height="200"/> </a> </p>
-<p><img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30%" height="200"/> </a> </p>
+<p><img align="right" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30%" height="150"/> </a> </p>
 </div>
 
 <img align="left" width="47%" bg_color="red" src="https://github-readme-stats.vercel.app/api?username=vinsmoke55&show_icons=true&theme=vision-friendly-dark">
