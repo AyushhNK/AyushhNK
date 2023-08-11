@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Flask<br>
+- 🌱 I’m currently learning Python<br>
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
