@@ -33,7 +33,7 @@
 </div>
 -->
 
-<img align="left" width="47%" bg_color="red" src="https://github-readme-stats.vercel.app/api?username=vinsmoke55&show_icons=true&theme=vision-friendly-dark">
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinsmoke55&layout=compact&theme=vision-friendly-dark")(https://github.com/vinsmoke55/github-readme-stats">
+<img align="left" width="47%" bg_color="red" src="https://github-readme-stats.vercel.app/api?username=AyushhNK&show_icons=true&theme=vision-friendly-dark">
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushhNK&layout=compact&theme=vision-friendly-dark")(https://github.com/AyushhNK/github-readme-stats">
 
-<p><img align="center" width="100%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinsmoke55&layout=compact&theme=vision-friendly-dark" alt="Vinsmoke55" /></p>
+<p><img align="center" width="100%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushhNK&layout=compact&theme=vision-friendly-dark" alt="AyushhNK" /></p>
