@@ -1,4 +1,4 @@
-<p align="center"><b>### Hi there 👋</b></p>
+<p align="center"><b> <img src = "https://media.giphy.com/media/yIomjPheQvvbiF9v7A/giphy.gif?cid=ecf05e47ype68hig3rsqux0xj3ndp1xl86vroojmelr3l9pr&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width = 400px align = "center"> </b></p>
 
 
 
@@ -12,7 +12,7 @@
 - ⚡ Fun 
 -->
 
-<img src = "https://media.giphy.com/media/yIomjPheQvvbiF9v7A/giphy.gif?cid=ecf05e47ype68hig3rsqux0xj3ndp1xl86vroojmelr3l9pr&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width = 400px align = "center">
+
 ### Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px align = "center">
 <br />
 <p align="left"> <a href="" target="_blank" rel="noreferrer"> 
