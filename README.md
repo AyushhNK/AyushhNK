@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=egg&height=300&color=timeGradient&text=Hello%20World!&reversal=True&textBg=false&fontSize=100&animation=twinkling&stroke=000&strokeWidth=0.2"/>
 
-- 🌱 I’m currently learning Python<br>
+- 🌱 I’m currently learning Python and .net <br>
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
