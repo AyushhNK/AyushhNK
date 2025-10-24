@@ -24,7 +24,7 @@
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
    
    <img
-     src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind"
+     src="https://skillicons.dev/icons?i=html,css,angular,react,redux,tailwind"
    />
 </div>
 
