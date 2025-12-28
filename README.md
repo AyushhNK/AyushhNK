@@ -54,3 +54,9 @@
 
 <p><img align="center" width="100%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushhNK&layout=compact&theme=vision-friendly-dark" alt="AyushhNK" /></p>
 
+<br>
+<picture align="right">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+</picture>
+<br>
