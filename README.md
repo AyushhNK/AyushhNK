@@ -16,7 +16,7 @@
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
    
    <img
-     src="https://skillicons.dev/icons?i=django,fastapi,dotnet,postgres,sqlite"
+     src="https://skillicons.dev/icons?i=django,express,dotnet,postgres,redis"
    />
 </div>
 
@@ -24,7 +24,7 @@
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
    
    <img
-     src="https://skillicons.dev/icons?i=html,css,angular,react,redux,tailwind"
+     src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind"
    />
 </div>
 
@@ -32,7 +32,7 @@
 
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
     <img
-        src="https://skillicons.dev/icons?i=postman,git,github"
+        src="https://skillicons.dev/icons?i=postman,git,github,nginx,kafka,aws,jenkins"
       />
 </div>
 
