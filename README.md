@@ -16,7 +16,7 @@
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
    
    <img
-     src="https://skillicons.dev/icons?i=django,express,dotnet,postgres,redis"
+     src="https://skillicons.dev/icons?i=django,express,nest,dotnet,postgres,redis"
    />
 </div>
 
